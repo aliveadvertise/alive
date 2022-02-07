@@ -1,0 +1,1164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Presento Bootstrap Template - Index</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
+
+    <!-- =======================================================
+  * Template Name: Presento - v3.7.0
+  * Template URL: https://bootstrapmade.com/presento-bootstrap-corporate-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+    <!-- ======= Header ======= -->
+    <header id="header" class="fixed-top ">
+        <div class="container d-flex align-items-center justify-content-lg-between">
+
+            <h1 class="logo me-auto me-lg-0"><a href="index.html">AA<span>.</span></a></h1>
+            <!-- Uncomment below if you prefer to use an image logo -->
+            <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+            <nav id="navbar" class="navbar order-last order-lg-0">
+                <ul>
+
+                    <li><a class="nav-link scrollto" href="about.html">About</a></li>
+                    <li class="dropdown"><a href="dms-services.html"><span>Digital Marketing</span> <i
+                                class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li><a href="dms-services.html#tabs-1">Search Engine Optimization (SEO)</a></li>
+                            <li><a href="dms-services.html#tabs-2">Search Engine Marketing (PPC)</a></li>
+                            <li><a href="dms-services.html#tabs-3">Social Media Marketing (SMM)</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown"><a href="wdd-services.html"><span>Web Design & Development</span> <i
+                                class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li><a href="wdd-services.html#tabs-1">UI/UX Design</a></li>
+                            <li><a href="wdd-services.html#tabs-2">Professional WordPress <br>Design & Development</a>
+                            </li>
+                            <li><a href="wdd-services.html#tabs-3">Professional E-commerce<br> Website Design &
+                                    Development</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="bicd-services.html">Branding</a></li>
+                    <li class="dropdown"><a href="#"><span>More</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+
+                            <li class="dropdown"><a href="gds-services.html"><span>Graphic Design Services</span> <i
+                                        class="bi bi-chevron-right"></i></a>
+                                <ul>
+                                    <li><a href="gds-services.html#tabs-1">Logo Design</a></li>
+                                    <li><a href="gds-services.html#tabs-2">Posters and Signage Design</a></li>
+                                    <li><a href="gds-services.html#tabs-3">Brochure & Flyer Design</a></li>
+                                    <li><a href="gds-services.html#tabs-4">Newsletter and E-mail Design</a></li>
+                                    <li><a href="gds-services.html#tabs-5">Book Cover Design</a></li>
+                                    <li><a href="gds-services.html#tabs-6">Product Packaging</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown"><a href="ifs-services.html"><span>Industry-Focused Services</span> <i
+                                        class="bi bi-chevron-right"></i></a>
+                                <ul>
+                                    <li><a href="ifs-services.html#tabs-1">Financial Services Branding</a></li>
+                                    <li><a href="ifs-services.html#tabs-2">Manufacturing Industry Branding</a></li>
+                                    <li><a href="ifs-services.html#tabs-3">Branding Nonprofits</a></li>
+                                    <li><a href="ifs-services.html#tabs-4">Manufacturing Website Design</a></li>
+                                    <li><a href="ifs-services.html#tabs-5">Nonprofit Website Design</a></li>
+                                    <li><a href="ifs-services.html#tabs-6">Financial Website Design</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav><!-- .navbar -->
+
+            <a href="contact.html" class="get-started-btn scrollto">Contact</a>
+
+        </div>
+    </header><!-- End Header -->
+
+    <!-- ======= Hero Section ======= -->
+    <section id="hero" class="d-flex align-items-center justify-content-center">
+        <div class="container" data-aos="fade-up">
+
+            <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+                <div class="col-xl-6 col-lg-8">
+                    <h1>Digital Marketing <span>&</span> Advertising Agency<span>.</span></h1>
+                    <h2>We are team of talented digital marketers</h2>
+                </div>
+            </div>
+
+            <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
+                <div class="col-xl-2 col-md-4">
+                    <div class="icon-box">
+                        <i class="ri-store-line"></i>
+                        <h3><a href="dms-services.html">Digital Marketing Services</a></h3>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-md-4">
+                    <div class="icon-box">
+                        <i class="ri-bar-chart-box-line"></i>
+                        <h3><a href="wdd-services.html">Web Design & Development</a></h3>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-md-4">
+                    <div class="icon-box">
+                        <i class="ri-calendar-todo-line"></i>
+                        <h3><a href="bicd-services.html">Brand Identity & Corporate</a></h3>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-md-4">
+                    <div class="icon-box">
+                        <i class="ri-paint-brush-line"></i>
+                        <h3><a href="gds-services.html">Graphic Design Services</a></h3>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-md-4">
+                    <div class="icon-box">
+                        <i class="ri-database-2-line"></i>
+                        <h3><a href="ifs-services.html">Industry-Focused Services</a></h3>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section><!-- End Hero -->
+
+    <main id="main">
+
+        <!-- ======= Clients Section ======= -->
+        <section id="clients" class="clients">
+            <div class="container" data-aos="zoom-in">
+
+                <div class="clients-slider swiper">
+                    <div class="swiper-wrapper align-items-center">
+                        <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-9.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-20.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-21.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-22.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-23.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-13.png" class="img-fluid" alt="">
+                        </div>
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+
+            </div>
+        </section><!-- End Clients Section -->
+
+        <!-- ======= About Section ======= -->
+        <section id="about" class="about section-bg">
+            <div class="container" data-aos="fade-up">
+
+                <div class="row no-gutters">
+                    <div class="content col-xl-5 d-flex align-items-stretch">
+                        <div class="content">
+                            <h3>Performance-Driven Branding, Marketing & Web Design Agency</h3>
+                            <p>
+                                Alive Advertise comprises a team of enthusiastic and dedicated experts who deliver
+                                effective branding strategies for a
+                                variety of industries including small to large corporations, not-for-profit
+                                organizations, and start-ups.
+                            </p>
+                            <a href="#" class="about-btn"><span>About us</span> <i class="bx bx-chevron-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-7 d-flex align-items-stretch">
+                        <div class="icon-boxes d-flex flex-column justify-content-center">
+                            <div class="row">
+                                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+                                    <i class="bx bx-receipt"></i>
+                                    <h4>Extensive Experience</h4>
+                                    <p>Our team has refined its vast skill set, with a distinct focus on SEO, paid ads,
+                                        and digital marketing.</p>
+                                </div>
+                                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+                                    <i class="bx bx-cube-alt"></i>
+                                    <h4>Impressive Results</h4>
+                                    <p>We let our results speak for themselves. Whether you're looking to grow traffic
+                                        or hit a target ROI, we make it happen.</p>
+                                </div>
+                                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+                                    <i class="bx bx-images"></i>
+                                    <h4>Exceptional Service</h4>
+                                    <p>We pride ourselves on providing the highest level of personalized service. You
+                                        will come to know and love your dedicated
+                                        team.</p>
+                                </div>
+                                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+                                    <i class="bx bx-shield"></i>
+                                    <h4>Strategic Prowess</h4>
+                                    <p>We will customize your digital strategy to your needs. We drive towards long-term
+                                        goals and deliver day-to-day value.</p>
+                                </div>
+                            </div>
+                        </div><!-- End .content-->
+                    </div>
+                </div>
+
+            </div>
+        </section><!-- End About Section -->
+
+
+        <!-- ======= Counts Section ======= -->
+        <section id="counts" class="counts">
+            <div class="container" data-aos="fade-up">
+
+                <div class="row">
+
+                    <div class="col-lg-4 col-md-6">
+                        <div class="count-box">
+                            <i class="bi bi-emoji-smile"></i>
+                            <span data-purecounter-start="0" data-purecounter-end="537" data-purecounter-duration="1"
+                                class="purecounter"></span>
+
+                            <p>% Return on investment</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 mt-5 mt-md-0">
+                        <div class="count-box">
+                            <i class="bi bi-journal-richtext"></i>
+                            <span data-purecounter-start="0" data-purecounter-end="2310" data-purecounter-duration="1"
+                                class="purecounter"></span>
+                            <p>% Increase on traffic</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 mt-5 mt-lg-0">
+                        <div class="count-box">
+                            <i class="bi bi-headset"></i>
+                            <span data-purecounter-start="0" data-purecounter-end="335" data-purecounter-duration="1"
+                                class="purecounter"></span>
+                            <p>% Increase in sales</p>
+                        </div>
+                    </div>
+
+
+
+                </div>
+
+            </div>
+        </section><!-- End Counts Section -->
+
+        <!-- ======= Tabs Section ======= -->
+        <section id="tabs" class="tabs">
+            <div class="container" data-aos="fade-up">
+
+                <ul class="nav nav-tabs row d-flex">
+                    <li class="nav-item col-4">
+                        <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
+                            <i class="ri-gps-line"></i>
+                            <h4 class="d-none d-lg-block">MARKETING & ADVERTISING</h4>
+                        </a>
+                    </li>
+                    <li class="nav-item col-4">
+                        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
+                            <i class="ri-body-scan-line"></i>
+                            <h4 class="d-none d-lg-block">SEARCH ENGINE OPTIMIZATION (SEO)</h4>
+                        </a>
+                    </li>
+                    <li class="nav-item col-4">
+                        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
+                            <i class="ri-sun-line"></i>
+                            <h4 class="d-none d-lg-block">E-COMMERCE & WEBSITE DESIGN</h4>
+                        </a>
+                    </li>
+
+                </ul>
+
+                <div class="tab-content">
+                    <div class="tab-pane active show" id="tab-1">
+                        <div class="row">
+                            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0" data-aos="fade-up"
+                                data-aos-delay="100">
+                                <h3>MARKETING & ADVERTISING</h3>
+                                <p>
+                                    Whether you require a boost in online visibility or are interested in growing your
+                                    customer base,<br> the task will be that
+                                    much easier with an expert advertising agency by your side. <br>We offer a range of
+                                    services that will allow you to
+                                    understand your ideal audience <br>and put the right information in front of them at
+                                    the right time.
+                                </p>
+                                <ul>
+                                    <li><i class="ri-check-double-line"></i> PPC Advertising</li>
+                                    <li><i class="ri-check-double-line"></i> Social Media</li>
+                                    <li><i class="ri-check-double-line"></i> Lead Generation & Conversion</li>
+                                    <li><i class="ri-check-double-line"></i> 537% Return on investment</li>
+                                </ul>
+
+                            </div>
+                            <div class="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up"
+                                data-aos-delay="200">
+                                <img src="assets/img/tabs-1.jpg" alt="" class="img-fluid">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab-2">
+                        <div class="row">
+                            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
+                                <h3>SEARCH ENGINE OPTIMIZATION (SEO)</h3>
+                                <p>
+                                    Behind every good digital marketing campaign lies SEO.<br> For the most intelligent
+                                    approach to this, you can trust in our
+                                    SEO agency.<br> We will enable you not just to increase your online visibility but
+                                    also to improve your search ranking
+                                    position. In a competitive market, appearing higher on the search results pages
+                                    cannot be understated.<br> As part of our
+                                    SEO services, we offer the following:
+                                </p>
+                                <ul>
+                                    <li><i class="ri-check-double-line"></i> Link Building</li>
+                                    <li><i class="ri-check-double-line"></i> Content Creation</li>
+                                    <li><i class="ri-check-double-line"></i> Website Audit</li>
+                                    <li><i class="ri-check-double-line"></i> 2,310% Increase on traffic</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6 order-1 order-lg-2 text-center">
+                                <img src="assets/img/tabs-2.jpg" alt="" class="img-fluid">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab-3">
+                        <div class="row">
+                            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
+                                <h3>E-COMMERCE & WEBSITE DESIGN</h3>
+                                <p>
+                                    An e-commerce website needs to do two things: <br>function correctly and offer a
+                                    great user experience design.<br> When you are
+                                    in need of a website that will fit these two requirements, <br>then our dedicated
+                                    and skilled designers are here to help.
+                                </p>
+                                <ul>
+                                    <li><i class="ri-check-double-line"></i> User Experience (UX)</li>
+                                    <li><i class="ri-check-double-line"></i> MEM Customized Web Development</li>
+                                    <li><i class="ri-check-double-line"></i> Design/Development</li>
+                                    <li><i class="ri-check-double-line"></i> 335% Increase in sales</li>
+                                </ul>
+
+                            </div>
+                            <div class="col-lg-6 order-1 order-lg-2 text-center">
+                                <img src="assets/img/tabs-3.jpg" alt="" class="img-fluid">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab-4">
+                        <div class="row">
+                            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
+                                <h3>Omnis fugiat ea explicabo sunt dolorum asperiores sequi inventore rerum</h3>
+                                <p>
+                                    Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                                    reprehenderit in voluptate
+                                    velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+                                    non proident, sunt in
+                                    culpa qui officia deserunt mollit anim id est laborum
+                                </p>
+                                <p class="fst-italic">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labore et dolore
+                                    magna aliqua.
+                                </p>
+                                <ul>
+                                    <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea
+                                        commodo consequat.</li>
+                                    <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in
+                                        voluptate velit.</li>
+                                    <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea
+                                        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta
+                                        storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6 order-1 order-lg-2 text-center">
+                                <img src="assets/img/tabs-4.jpg" alt="" class="img-fluid">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section><!-- End Tabs Section -->
+
+        <!-- ======= Services Section ======= -->
+        <section id="services" class="services services-g section-bg ">
+            <div class="container" data-aos="fade-up">
+                <!-- style="background: url('assets/img/services.jpg') fixed  no-repeat ;" -->
+
+
+                <div class="section-title">
+                    <h2>Services</h2>
+                    <p>Your business or situation is unique — just as your marketing strategy should be. Our digital
+                        marketing services have a
+                        distinct focus on driving results and achieving growth, whether it's by increasing brand
+                        recognition, targeted traffic,
+                        qualified leads, or cost-efficient revenue.</p>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                            <i class="bi bi-briefcase"></i>
+                            <h4>Search Engine Optimization (SEO)</h4>
+                            <p>SEO is the best way to boost your website visibility, drive more traffic, and grow leads
+                                or sales.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 mt-4 mt-md-0">
+                        <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+                            <i class="bi bi-card-checklist"></i>
+                            <h4>Paid Ads Management</h4>
+                            <p>Quickly get in front of the right audience at the exact right time to convert potential
+                                customers into paying customers.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 mt-4 mt-md-0">
+                        <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+                            <i class="bi bi-bar-chart"></i>
+                            <h4>Content Marketing</h4>
+                            <p>We work with our clients to create content that aligns with your brand's unique voice,
+                                tone, and personality.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 mt-4 mt-md-0">
+                        <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
+                            <i class="bi bi-binoculars"></i>
+                            <h4>Web Design & Development</h4>
+                            <p>We design and develop mobile-first websites optimized for performance and user
+                                experience.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 mt-4 mt-md-0">
+                        <div class="icon-box" data-aos="fade-up" data-aos-delay="500">
+                            <i class="bi bi-brightness-high"></i>
+                            <h4>Digital PR</h4>
+                            <p>Mentions on high-quality websites to build your domain's credibility and enhance your SEO
+                                results.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 mt-4 mt-md-0">
+                        <div class="icon-box" data-aos="fade-up" data-aos-delay="600">
+                            <i class="bi bi-calendar4-week"></i>
+                            <h4><a href="#">Social Media Marketing</a></h4>
+                            <p>With our Social Media Management package, your social media content will be on
+                                auto-pilot.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 mt-4 mt-md-0">
+                        <div class="icon-box" data-aos="fade-up" data-aos-delay="600">
+                            <i class="bi bi-calendar4-week"></i>
+                            <h4>Brand Design</h4>
+                            <p>Stand out with a comprehensive brand package that conveys your identity best.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 mt-4 mt-md-0">
+                        <div class="icon-box" data-aos="fade-up" data-aos-delay="600">
+                            <i class="bi bi-calendar4-week"></i>
+                            <h4>Strategic Services</h4>
+                            <p>Let's elevate your performance with with data-driven marketing strategies to deliver real
+                                results.</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section><!-- End Services Section -->
+
+        <!-- ======= Portfolio Section ======= -->
+        <section id="portfolio" class="portfolio">
+            <div class="container" data-aos="fade-up">
+
+                <div class="section-title">
+                    <h2>What We Do</h2>
+
+                </div>
+
+                <div class="row" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-12 d-flex justify-content-center">
+                        <ul id="portfolio-flters">
+                            <li data-filter="*" class="filter-active">All</li>
+                            <li data-filter=".filter-design">Web Design</li>
+                            <li data-filter=".filter-dev">Web Development</li>
+                            <li data-filter=".filter-ec">E-Commerce</li>
+                            <li data-filter=".filter-brand">Branding</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>App 1</h4>
+                <p>App</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
+                    title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div> -->
+
+                    <!-- ===1-3 design === -->
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-design">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/design/portfolio-12.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>Web Design</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/design/portfolio-12.png"
+                                        data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web Design"><i
+                                            class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-design">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/design/portfolio-6.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>Web Design</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/design/portfolio-6.png"
+                                        data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web Design"><i
+                                            class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-design">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/design/portfolio-2.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>Web Design</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/design/portfolio-2.png"
+                                        data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web Design"><i
+                                            class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- ===1-3 brand  === -->
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-brand ">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/brand/portfolio-4.jpg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>Branding</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/brand/portfolio-4.jpg" data-gallery="portfolioGallery"
+                                        class="portfolio-lightbox" title="Branding"><i class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-brand ">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/brand/portfolio-5.jpg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>Branding</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/brand/portfolio-5.jpg" data-gallery="portfolioGallery"
+                                        class="portfolio-lightbox" title="Branding"><i class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-brand ">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/brand/portfolio-6.jpg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>Branding</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/brand/portfolio-6.jpg" data-gallery="portfolioGallery"
+                                        class="portfolio-lightbox" title="Branding"><i class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- ===1-3  ecom  === -->
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-ec ">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/ecom/portfolio-1.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>E-Commerce</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/ecom/portfolio-1.png" data-gallery="portfolioGallery"
+                                        class="portfolio-lightbox" title="E-Commerce"><i class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-ec ">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/ecom/portfolio-7.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>E-Commerce</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/ecom/portfolio-7.png" data-gallery="portfolioGallery"
+                                        class="portfolio-lightbox" title="E-Commerce"><i class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-ec ">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/ecom/portfolio-3.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>E-Commerce</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/ecom/portfolio-3.png" data-gallery="portfolioGallery"
+                                        class="portfolio-lightbox" title="E-Commerce"><i class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- ===4-6  brand  === -->
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-brand ">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/brand/portfolio-7.jpg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>Branding</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/brand/portfolio-7.jpg" data-gallery="portfolioGallery"
+                                        class="portfolio-lightbox" title="Branding"><i class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-brand ">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/brand/portfolio-8.jpg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>Branding</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/brand/portfolio-8.jpg" data-gallery="portfolioGallery"
+                                        class="portfolio-lightbox" title="Branding"><i class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-brand ">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/brand/portfolio-9.jpg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>Branding</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/brand/portfolio-9.jpg" data-gallery="portfolioGallery"
+                                        class="portfolio-lightbox" title="Branding"><i class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- ===1-3  web dev  === -->
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-dev ">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/deve/portfolio-1.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>Web Development</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/deve/portfolio-1.png" data-gallery="portfolioGallery"
+                                        class="portfolio-lightbox" title="Web Development"><i
+                                            class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-dev ">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/deve/portfolio-2.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>Web Development</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/deve/portfolio-2.png" data-gallery="portfolioGallery"
+                                        class="portfolio-lightbox" title="Web Development"><i
+                                            class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-dev ">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/deve/portfolio-3.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>Web Development</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/deve/portfolio-3.png" data-gallery="portfolioGallery"
+                                        class="portfolio-lightbox" title="Web Development"><i
+                                            class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-dev ">
+                        <div class="portfolio-wrap" style="max-height: 145px; border: 2px solid #e03a3c;">
+                            <img src="assets/img/portfolio/deve/portfolio-4.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <p>Web Development</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/deve/portfolio-4.png" data-gallery="portfolioGallery"
+                                        class="portfolio-lightbox" title="Web Development"><i
+                                            class="bx bx-plus"></i></a>
+                                    <a href="work.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+
+                </div>
+
+            </div>
+        </section><!-- End Portfolio Section -->
+
+        <!-- ======= Team Section ======= -->
+        <section id="team" class="team section-bg">
+            <div class="container" data-aos="fade-up">
+
+                <div class="section-title">
+                    <h2>Why Work With Us?</h2>
+                    <!-- <p>Connect with us for a free consultation.
+              </p><br>
+              <a href="#about" class="get-started-btn scrollto">free consultation</a> -->
+                </div>
+
+                <div class="row">
+
+                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                        <div class="member" data-aos="fade-up" data-aos-delay="100">
+                            <div class="member-img">
+                                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                                <div class="social">
+                                    <span class="text-center text-white bg-dark">You get to stay on top of everything,
+                                        through a
+                                        dedicated strategy executive.<br> From planning a campaign, creating the
+                                        content to promoting it, we do it all.</span>
+
+                                </div>
+                            </div>
+                            <div class="member-info">
+                                <h4>One-Stop-Shop</h4>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                        <div class="member" data-aos="fade-up" data-aos-delay="200">
+                            <div class="member-img">
+                                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                                <div class="social">
+                                    <span class="text-center text-white bg-dark">We execute measurable short-term
+                                        tactics that deliver
+                                        quick results.<br> But we make sure those tactics lead up to your
+                                        business’s long-term goals as well.</span>
+                                </div>
+                            </div>
+                            <div class="member-info">
+                                <h4>Strategic Approach</h4>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                        <div class="member" data-aos="fade-up" data-aos-delay="300">
+                            <div class="member-img">
+                                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                                <div class="social">
+                                    <span class="text-center text-white bg-dark">We respect your vision of the company &
+                                        hence do
+                                        nothing without your approval. <br>There are absolutely no hidden costs in
+                                        the process.</span>
+                                </div>
+                            </div>
+                            <div class="member-info">
+                                <h4>Total Transparency</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                        <div class="member" data-aos="fade-up" data-aos-delay="100">
+                            <div class="member-img">
+                                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                                <div class="social">
+                                    <span class="text-center text-white bg-dark">We are empowered, and work on the go.
+                                        <br>Exactly what
+                                        your business needs right now to turn things around under
+                                        short deadlines.</span>
+
+                                </div>
+                            </div>
+                            <div class="member-info">
+                                <h4>Fast & Competent</h4>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                </div>
+
+            </div>
+        </section><!-- End Team Section -->
+
+
+
+
+
+
+        <!-- ======= Testimonials Section ======= -->
+        <section id="testimonials" class="testimonials">
+            <div class="container" data-aos="fade-up">
+                <div class="section-title">
+                    <h2>What Clients Say About Us</h2>
+
+                </div>
+
+                <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+                    <div class="swiper-wrapper">
+
+                        <div class="swiper-slide">
+                            <div class="testimonial-wrap">
+                                <div class="testimonial-item">
+
+                                    <h3>JOHNNY MOUSSA</h3>
+                                    <h4>Lead Cybersecurity Architect</h4>
+                                    <p>
+                                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                        I worked with Alive Advertise on a few projects and they always delivered the
+                                        products on time, with good value and high
+                                        quality.
+                                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+                        </div><!-- End testimonial item -->
+
+                        <div class="swiper-slide">
+                            <div class="testimonial-wrap">
+                                <div class="testimonial-item">
+
+                                    <h3>HISHAM KAWAS</h3>
+                                    <h4>Vice President, Capital Markets</h4>
+                                    <p>
+                                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                        Alive Advertise is very action-oriented and responds quickly. It is a pleasure
+                                        to work with them.
+                                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+                        </div><!-- End testimonial item -->
+
+                        <div class="swiper-slide">
+                            <div class="testimonial-wrap">
+                                <div class="testimonial-item">
+
+                                    <h3>AZIZ EL MURR</h3>
+                                    <h4>Sales Representative</h4>
+                                    <p>
+                                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                        Alive Advertise is a truly professional agency and returns all work on time and
+                                        to a very high standard.
+                                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+                        </div><!-- End testimonial item -->
+
+                        <div class="swiper-slide">
+                            <div class="testimonial-wrap">
+                                <div class="testimonial-item">
+
+                                    <h3>GHIDA ACHKAR</h3>
+                                    <h4>Frontend Developer</h4>
+                                    <p>
+                                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                        Alive Advertise has a great team and I found their attention to detail and
+                                        dedication both inspiring and motivating.
+                                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+                        </div><!-- End testimonial item -->
+
+                        <div class="swiper-slide">
+                            <div class="testimonial-wrap">
+                                <div class="testimonial-item">
+
+                                    <h3>AOUNI ABI AAD</h3>
+                                    <h4>Empowered Aftercare</h4>
+                                    <p>
+                                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                        Alive Advertise is a knowledgeable provider of internet design and marketing
+                                        services. Their work was efficient and the
+                                        staff highly competent.
+                                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+                        </div><!-- End testimonial item -->
+
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+
+            </div>
+        </section><!-- End Testimonials Section -->
+
+
+        <!-- ======= Pricing Section ======= -->
+        <section id="pricing" class="pricing section-bg-b">
+            <div class="container" data-aos="fade-up">
+
+                <div class="section-title">
+                    <h2>Digital Marketing Packages and Pricing</h2>
+                    <p>From comprehensive SEO audits to paid advertising management services, all of our digital
+                        marketing prices are
+                        competitively packaged to fit your size, match your situation, reach your goals, and maximize
+                        your ROI.</p><br>
+                    <a href="#about" class="get-started-btn scrollto pr-bn-1">Pricing</a>
+
+                </div>
+
+
+
+            </div>
+        </section><!-- End Pricing Section -->
+
+
+        <!-- ======= Clients Section ======= -->
+        <section id="clients" class="clients">
+            <div class="container" data-aos="zoom-in">
+
+                <div class="clients-slider swiper">
+                    <div class="swiper-wrapper align-items-center">
+                        <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-9.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-20.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-21.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-22.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-23.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="swiper-slide"><img src="assets/img/clients/client-13.png" class="img-fluid" alt="">
+                        </div>
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+
+            </div>
+        </section><!-- End Clients Section -->
+
+
+
+
+
+
+    </main><!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-3 col-md-6 footer-contact">
+                        <h3>Alive Advertise<span>.</span></h3><br>
+                        <div class="social-links text-center text-md-start pt-3 pt-md-0">
+                            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+                            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                            <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+                            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                        </div><br>
+                        <p>
+
+                            &copy;2022 <strong><span>Alive Advertise</span></strong>
+                        </p>
+                    </div>
+
+                    <div class="col-lg-2 col-md-6 footer-links">
+                        <h4>Useful Links</h4>
+                        <ul>
+
+                            <li><i class="bx bx-chevron-right"></i> <a href="about.html">About us</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="about.html#services">Services</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="work.html">Work</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="faq.html">Faq</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="pricing.html">Pricing</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 footer-links">
+                        <h4>Our Services</h4>
+                        <ul>
+                            <li><i class="bx bx-chevron-right"></i> <a href="dms-services.html">Digital Marketing
+                                    Services</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="wdd-services.html">Web Design &
+                                    Development</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="bicd-services.html">Brand Identity &
+                                    Corporate Design</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="gds-services.html">Graphic Design
+                                    Services</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="ifs-services.html">Industry-Focused
+                                    Services</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 footer-newsletter">
+                        <h4>Contact Us</h4>
+                        <p>We take care of your digital marketing so you can focus on scaling up your business.</p>
+                        <a href="contact.html" class="get-started-btn scrollto">Contact Us</a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+    </footer><!-- End Footer -->
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
+
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/purecounter/purecounter.js"></script>
+    <script src="assets/vendor/aos/aos.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
